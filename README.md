@@ -1,6 +1,3 @@
-
-
-```markdown
 # Dice Roll Simulator 🎲
 
 Welcome to the **Dice Roll Simulator**! This is a simple Python program that simulates rolling a pair of dice. Each time you run the program, it generates two random numbers between 1 and 6 (inclusive), representing the result of each die. You can roll the dice as many times as you want!
@@ -22,3 +19,12 @@ Welcome to the **Dice Roll Simulator**! This is a simple Python program that sim
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/slickwithit/Dice-Rolling-Game.git
+
+2. **Navigate to the project directory**:
+   ```bash
+   cd Dice-Rolling-Game
+
+3. **Run the program**:
+   python dice_rolling_game.py
+
+   
