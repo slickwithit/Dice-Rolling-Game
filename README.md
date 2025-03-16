@@ -18,4 +18,4 @@ Welcome to the **Dice Roll Simulator**! This is a simple Python program that sim
 ### **Steps**
 1. **Clone the repository** or download the `dice_rolling_game` file.
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/your-username/your-repo-name.git](https://github.com/slickwithit/Dice-Rolling-Game.git
