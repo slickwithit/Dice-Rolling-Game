@@ -25,6 +25,7 @@ Welcome to the **Dice Roll Simulator**! This is a simple Python program that sim
    cd Dice-Rolling-Game
 
 3. **Run the program**:
+    ```bash
    python dice_rolling_game.py
 
    
