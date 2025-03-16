@@ -28,4 +28,22 @@ Welcome to the **Dice Roll Simulator**! This is a simple Python program that sim
     ```bash
    python dice_rolling_game.py
 
+## **Technologies Used**
+Programming Language: Python
+Libraries: random
+
+
+## **Future Enhancements**
+Add a graphical interface using a library like tkinter or pygame.
+Allow the user to choose the number of dice to roll.
+Track and display statistics (e.g., total rolls, average roll value).
+
+## **Why This Project?**
+This project is a great introduction to:
+Basic Python programming.
+Using libraries like random.
+Implementing user interaction and loops.
+
+Feel free to contribute or suggest improvements! 🚀
+
    
